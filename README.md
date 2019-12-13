@@ -11,6 +11,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 cd local_modules/thread_count
 yarn
+
+cd local_modules/async
+yarn
 ```
 
 ## Run NodeJS
