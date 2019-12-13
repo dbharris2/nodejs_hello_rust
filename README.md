@@ -6,7 +6,14 @@
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-## Run project
+## Build rust code
+
+```
+cd local_modules/thread_count
+yarn
+```
+
+## Run NodeJS
 
 ```
 yarn
