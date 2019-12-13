@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "async": "file:local_modules/async",
     "thread_count": "file:local_modules/thread-count"
   },
   "scripts": {
